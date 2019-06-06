@@ -1,2 +1,2 @@
 # pgexercises
-my solutions to pgexercises
+my solutions to [pgexercises](https://pgexercises.com/)
