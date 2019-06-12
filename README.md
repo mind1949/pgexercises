@@ -4,68 +4,68 @@ my solutions to [pgexercises](https://pgexercises.com/)
 # exercises
 ## 1.basic
 
-- [ ] Retrieve everything from a table
-- [ ] Retrieve specific columns from a table
-- [ ] Control which rows are retrieved
-- [ ] Control which rows are retrieved - part 2
-- [ ] Basic string searches
-- [ ] Matching against multiple possible values
-- [ ] Classify results into buckets
-- [ ] Working with dates
-- [ ] Removing duplicates, and ordering results
-- [ ] Combining results from multiple queries
-- [ ] Simple aggregation
-- [ ] More aggregation
+- [x] Retrieve everything from a table
+- [x] Retrieve specific columns from a table
+- [x] Control which rows are retrieved
+- [x] Control which rows are retrieved - part 2
+- [x] Basic string searches
+- [x] Matching against multiple possible values
+- [x] Classify results into buckets
+- [x] Working with dates
+- [x] Removing duplicates, and ordering results
+- [x] Combining results from multiple queries
+- [x] Simple aggregation
+- [x] More aggregation
 
 ## 2.joins and subqueries
 
-- [ ] Produce a timestamp for 1 a.m. on the 31st of August 2012
-- [ ] Subtract timestamps from each other
-- [ ] Generate a list of all the dates in October 2012
-- [ ] Get the day of the month from a timestamp
-- [ ] Work out the number of seconds between timestamps
-- [ ] Work out the number of days in each month of 2012
-- [ ] Work out the number of days remaining in the month
-- [ ] Work out the end time of bookings
-- [ ] Return a count of bookings for each month
-- [ ] Work out the utilisation percentage for each facility by month
+- [x] Produce a timestamp for 1 a.m. on the 31st of August 2012
+- [x] Subtract timestamps from each other
+- [x] Generate a list of all the dates in October 2012
+- [x] Get the day of the month from a timestamp
+- [x] Work out the number of seconds between timestamps
+- [x] Work out the number of days in each month of 2012
+- [x] Work out the number of days remaining in the month
+- [x] Work out the end time of bookings
+- [x] Return a count of bookings for each month
+- [x] Work out the utilisation percentage for each facility by month
 
 ## 3. modifying data
 
-- [ ] Insert some data into a table
-- [ ] Insert multiple rows of data into a table
-- [ ] Insert calculated data into a table
-- [ ] Update some existing data
-- [ ] Update multiple rows and columns at the same time
-- [ ] Update a row based on the contents of another row
-- [ ] Delete all bookings
-- [ ] Delete a member from the cd.members table
-- [ ] Delete based on a subquery
+- [x] Insert some data into a table
+- [x] Insert multiple rows of data into a table
+- [x] Insert calculated data into a table
+- [x] Update some existing data
+- [x] Update multiple rows and columns at the same time
+- [x] Update a row based on the contents of another row
+- [x] Delete all bookings
+- [x] Delete a member from the cd.members table
+- [x] Delete based on a subquery
 
 ## 4. aggregate
 
-- [ ] Count the number of facilities
-- [ ] Count the number of expensive facilities
-- [ ] Count the number of recommendations each member makes.
-- [ ] List the total slots booked per facility
-- [ ] List the total slots booked per facility in a given month
-- [ ] List the total slots booked per facility per month
-- [ ] Find the count of members who have made at least one booking
-- [ ] List facilities with more than 1000 slots booked
-- [ ] Find the total revenue of each facility
-- [ ] Find facilities with a total revenue less than 1000
-- [ ] Output the facility id that has the highest number of slots booked
-- [ ] List the total slots booked per facility per month, part 2
-- [ ] List the total hours booked per named facility
-- [ ] List each member's first booking after September 1st 2012
-- [ ] Produce a list of member names, with each row containing the total member count
-- [ ] Produce a numbered list of members
-- [ ] Output the facility id that has the highest number of slots booked, again
-- [ ] Rank members by (rounded) hours used
-- [ ] Find the top three revenue generating facilities
-- [ ] Classify facilities by value
-- [ ] Calculate the payback time for each facility
-- [ ] Calculate a rolling average of total revenue
+- [x] Count the number of facilities
+- [x] Count the number of expensive facilities
+- [x] Count the number of recommendations each member makes.
+- [x] List the total slots booked per facility
+- [x] List the total slots booked per facility in a given month
+- [x] List the total slots booked per facility per month
+- [x] Find the count of members who have made at least one booking
+- [x] List facilities with more than 1000 slots booked
+- [x] Find the total revenue of each facility
+- [x] Find facilities with a total revenue less than 1000
+- [x] Output the facility id that has the highest number of slots booked
+- [x] List the total slots booked per facility per month, part 2
+- [x] List the total hours booked per named facility
+- [x] List each member's first booking after September 1st 2012
+- [x] Produce a list of member names, with each row containing the total member count
+- [x] Produce a numbered list of members
+- [x] Output the facility id that has the highest number of slots booked, again
+- [x] Rank members by (rounded) hours used
+- [x] Find the top three revenue generating facilities
+- [x] Classify facilities by value
+- [x] Calculate the payback time for each facility
+- [x] Calculate a rolling average of total revenue
 
 ## 5. date
 
