@@ -69,16 +69,16 @@ my solutions to [pgexercises](https://pgexercises.com/)
 
 ## 5. date
 
-- [ ] Produce a timestamp for 1 a.m. on the 31st of August 2012
-- [ ] Subtract timestamps from each other
-- [ ] Generate a list of all the dates in October 2012
-- [ ] Get the day of the month from a timestamp
-- [ ] Work out the number of seconds between timestamps
-- [ ] Work out the number of days in each month of 2012
-- [ ] Work out the number of days remaining in the month
-- [ ] Work out the end time of bookings
-- [ ] Return a count of bookings for each month
-- [ ] Work out the utilisation percentage for each facility by month
+- [x] Produce a timestamp for 1 a.m. on the 31st of August 2012
+- [x] Subtract timestamps from each other
+- [x] Generate a list of all the dates in October 2012
+- [x] Get the day of the month from a timestamp
+- [x] Work out the number of seconds between timestamps
+- [x] Work out the number of days in each month of 2012
+- [x] Work out the number of days remaining in the month
+- [x] Work out the end time of bookings
+- [x] Return a count of bookings for each month
+- [x] Work out the utilisation percentage for each facility by month
 
 ## 6. string
 
