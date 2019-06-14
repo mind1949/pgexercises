@@ -82,13 +82,13 @@ my solutions to [pgexercises](https://pgexercises.com/)
 
 ## 6. string
 
-- [ ] Format the names of members
-- [ ] Find facilities by a name prefix
-- [ ] Perform a case-insensitive search
-- [ ] Find telephone numbers with parentheses
-- [ ] Pad zip codes with leading zeroes
-- [ ] Count the number of members whose surname starts with each letter of the alphabet
-- [ ] Clean up telephone numbers
+- [x] Format the names of members
+- [x] Find facilities by a name prefix
+- [x] Perform a case-insensitive search
+- [x] Find telephone numbers with parentheses
+- [x] Pad zip codes with leading zeroes
+- [x] Count the number of members whose surname starts with each letter of the alphabet
+- [x] Clean up telephone numbers
 
 ## 7. recursive
 
