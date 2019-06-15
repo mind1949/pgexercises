@@ -92,6 +92,7 @@ my solutions to [pgexercises](https://pgexercises.com/)
 
 ## 7. recursive
 
-- [ ] Find the upward recommendation chain for member ID 27
-- [ ] Find the downward recommendation chain for member ID 1
-- [ ] Produce a CTE that can return the upward recommendation chain for any member
+- [x] Find the upward recommendation chain for member ID 27
+- [x] Find the downward recommendation chain for member ID 1
+- [x] Produce a CTE that can return the upward recommendation chain for any member
+
